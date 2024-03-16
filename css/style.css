@@ -1,0 +1,16 @@
+:root {
+    --bs-primary:#C78C06;
+    --bs-primary-rgb: 199, 140, 6;
+    --bs-secondary: #ffe6a6;
+    --bs-secondary-rgb: 255, 230, 172;
+}
+
+.banner {
+    background: url(../images/main-banner.jpg) no-repeat center;
+    background-size: cover;
+}
+
+.vision {
+    background: url(../images/vision.jpg) no-repeat center;
+    background-size: cover;
+}
